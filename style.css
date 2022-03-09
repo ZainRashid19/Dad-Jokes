@@ -43,26 +43,13 @@ body {
 	}
 }
 
-/* .testing{
-  margin: 0;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
+ .testing{
   font-size:45px;
-} */
-
+}
 
 .input_joke{
   text-align: center;
   font-size: 50px;
 }
-
-
-
-
-
-
 
 </style>
